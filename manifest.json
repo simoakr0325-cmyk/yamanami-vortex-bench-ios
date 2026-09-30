@@ -1,7 +1,7 @@
 {
   "id": "yamanami-vortex-bench",
   "name": "Yamanami Vortex 実機検証(捨てる前提)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minAppVersion": "1.5.0",
   "description": "2D/3D軽量性の実機検証だけを行う使い捨てプラグイン。計測が終わったら削除する。",
   "author": "yamanami",
